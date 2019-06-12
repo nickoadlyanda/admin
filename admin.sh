@@ -1,4 +1,4 @@
-admin.sh(){
+admin(){
 sleep 0.03
 echo "Welcome Nicko Adlyanda aka Chester"
 sleep 0.05
