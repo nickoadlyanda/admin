@@ -1,3 +1,3 @@
 echo "Masukkan Nama Anda :"
 read $nama
-echo "Selamat datang" $nama
+echo "Selamat datang $nama"
